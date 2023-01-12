@@ -12,6 +12,8 @@
 //hara que esta este como originalmente estaba
 let miPrimeraVariable = "Mi primera variable"
 console.log(miPrimeraVariable) 
-//const
+
+//const: Const no puede mutar es decir que al momente de ingresar un dato no puede ser modificado.
+
 
 
